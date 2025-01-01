@@ -1,0 +1,10 @@
+# Docker specific
+.env 
+docker-compose.yaml 
+docker-compose.override.yaml 
+.dockerignore 
+# Sensitive data
+wp-config.php 
+# Large files
+node_modules/ 
+vendor/ 
